@@ -1,4 +1,4 @@
-# UDP-TCP
+# UDP/TCP File Transfer
 ## Computer Networks Midterm Project
 
 Comparison of UDP and TCP protocols with and without network jitter.
